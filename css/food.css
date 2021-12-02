@@ -1,18 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Shrikhand&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Shrikhand&display=swap');
-
-.logo {
-    text-align: center;
-    border: 1px solid;
+.logo {;
+  border: 1px solid;
 }
 
 header {
-    font-family: "shrikhand";
+  font-family: "shrikhand";
+  text-align: center;
+  box-shadow: 0px 4px 3px 0px rgba(0, 0, 255, 0.2);
+  padding : 0.3rem
 }
-
 
 body {
-    margin : 0px;
-
+  margin: 0px;
 }
+
