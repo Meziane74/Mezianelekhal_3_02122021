@@ -1,8 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Shrikhand&display=swap");
 
-.logo {;
-  border: 1px solid;
+
+
+img{
+  margin-top: 5%;
+  width: 50%;
 }
 
 body {
@@ -20,9 +23,23 @@ header {
 }
 
 
-
+/*  */
 main .searchbar{
-    background-color: lightgrey;
-    text-align: center ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap : 1rem ;
+    background-color: #f3f3f3;
     padding: 1px;
 }
+
+main .city i {
+    font-size: 1.5rem;
+}
+
+/* EXPLORER */
+.explorer {
+  text-align: center;
+  margin-top: 2.3rem;
+ }
+
