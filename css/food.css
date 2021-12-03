@@ -23,7 +23,7 @@ header {
 }
 
 
-/*  */
+/* SEARCHBAR */
 main .searchbar{
     display: flex;
     align-items: center;
@@ -42,4 +42,15 @@ main .city i {
   text-align: center;
   margin-top: 2.3rem;
  }
+ .explorer h1 {
+   margin-top: 2rem;
+   font-size: 1.7rem;
+ }
 
+.explorer p {
+  font-size: 1rem;
+}
+
+.explorer button {
+  background-image: linear-gradient(to top, #9356DC, #FF79DA );
+}
