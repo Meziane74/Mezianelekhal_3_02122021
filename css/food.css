@@ -4,7 +4,10 @@
 img {
   margin-top: 5%;
   width: 50%;
+  
 }
+
+
 
 body {
   margin: 0px;
@@ -18,6 +21,9 @@ header {
   padding: 0.3rem;
   margin: 0;
   position: relative;
+}
+header .logo{
+
 }
 
 /* SEARCHBAR */
@@ -64,5 +70,8 @@ main .city i {
    margin: ??? ;
  }
 
-
+/* FOOTER */
+footer .logofooter {
+  filter: invert(100%);
+}
 
